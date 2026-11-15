@@ -1,0 +1,57 @@
+ID,Text,Entity,Entity Type
+NER001,"My name is Sarah Johnson and I need help with order ORD-78421.",Sarah Johnson,PERSON
+NER001,"My name is Sarah Johnson and I need help with order ORD-78421.",ORD-78421,ORDER_ID
+NER002,"Please deliver my Samsung Galaxy S25 to Dubai before 20 November 2026.",Samsung Galaxy S25,PRODUCT
+NER002,"Please deliver my Samsung Galaxy S25 to Dubai before 20 November 2026.",Dubai,LOCATION
+NER002,"Please deliver my Samsung Galaxy S25 to Dubai before 20 November 2026.",20 November 2026,DATE
+NER003,"I was charged AED 250 twice on my account yesterday.",AED 250,MONEY
+NER004,"Contact Michael Brown at michael.brown@email.com about the refund.",Michael Brown,PERSON
+NER004,"Contact Michael Brown at michael.brown@email.com about the refund.",michael.brown@email.com,EMAIL
+NER005,"My package was sent from Abu Dhabi to Sharjah on 12 November 2026.",Abu Dhabi,LOCATION
+NER005,"My package was sent from Abu Dhabi to Sharjah on 12 November 2026.",Sharjah,LOCATION
+NER005,"My package was sent from Abu Dhabi to Sharjah on 12 November 2026.",12 November 2026,DATE
+NER006,"I purchased an iPhone 16 from Apple for AED 3,499.",iPhone 16,PRODUCT
+NER006,"I purchased an iPhone 16 from Apple for AED 3,499.",Apple,ORGANIZATION
+NER006,"I purchased an iPhone 16 from Apple for AED 3,499.",AED 3,499,MONEY
+NER007,"Please call me on +971501234567 after 3:30 PM.",+971501234567,PHONE
+NER007,"Please call me on +971501234567 after 3:30 PM.",3:30 PM,TIME
+NER008,"My order ORD-99218 from Amazon has not arrived.",ORD-99218,ORDER_ID
+NER008,"My order ORD-99218 from Amazon has not arrived.",Amazon,ORGANIZATION
+NER009,"I spoke with Daniel Wilson at the Dubai branch yesterday.",Daniel Wilson,PERSON
+NER009,"I spoke with Daniel Wilson at the Dubai branch yesterday.",Dubai,LOCATION
+NER010,"The replacement will cost USD 45 and arrive on 18 November 2026.",USD 45,MONEY
+NER010,"The replacement will cost USD 45 and arrive on 18 November 2026.",18 November 2026,DATE
+NER011,"Please send the invoice to accounts@brightstar.com.",accounts@brightstar.com,EMAIL
+NER011,"Please send the invoice to accounts@brightstar.com.",Brightstar,ORGANIZATION
+NER012,"My delivery to London is scheduled for 9:00 AM.",London,LOCATION
+NER012,"My delivery to London is scheduled for 9:00 AM.",9:00 AM,TIME
+NER013,"Fatima Ahmed paid AED 180 for the Premium Care Package.",Fatima Ahmed,PERSON
+NER013,"Fatima Ahmed paid AED 180 for the Premium Care Package.",AED 180,MONEY
+NER013,"Fatima Ahmed paid AED 180 for the Premium Care Package.",Premium Care Package,PRODUCT
+NER014,"Order REF-55672 was cancelled by TechWorld yesterday.",REF-55672,ORDER_ID
+NER014,"Order REF-55672 was cancelled by TechWorld yesterday.",TechWorld,ORGANIZATION
+NER015,"I moved from Lagos to Toronto last month.",Lagos,LOCATION
+NER015,"I moved from Lagos to Toronto last month.",Toronto,LOCATION
+NER016,"Please ask Robert King to contact me tomorrow.",Robert King,PERSON
+NER017,"My subscription costs EUR 19.99 every month.",EUR 19.99,MONEY
+NER018,"The package should arrive at 11:45 AM on 16 November 2026.",11:45 AM,TIME
+NER018,"The package should arrive at 11:45 AM on 16 November 2026.",16 November 2026,DATE
+NER019,"I ordered a Dell Latitude 7440 from Dell Technologies.",Dell Latitude 7440,PRODUCT
+NER019,"I ordered a Dell Latitude 7440 from Dell Technologies.",Dell Technologies,ORGANIZATION
+NER020,"Please update the account belonging to James Carter.",James Carter,PERSON
+NER021,"My reference number is CASE-20261114-09.",CASE-20261114-09,ORDER_ID
+NER022,"The technician in Nairobi will visit on 21 November 2026.",Nairobi,LOCATION
+NER022,"The technician in Nairobi will visit on 21 November 2026.",21 November 2026,DATE
+NER023,"I received a refund of GBP 75 from ShopDirect.",GBP 75,MONEY
+NER023,"I received a refund of GBP 75 from ShopDirect.",ShopDirect,ORGANIZATION
+NER024,"Send the confirmation to nina.okoro@example.com.",nina.okoro@example.com,EMAIL
+NER025,"My new address is 45 Palm Street, Dubai.",45 Palm Street,LOCATION
+NER025,"My new address is 45 Palm Street, Dubai.",Dubai,LOCATION
+NER026,"I purchased two Galaxy Buds3 Pro devices.",Galaxy Buds3 Pro,PRODUCT
+NER027,"Call Ahmed on +971551112233 before noon.",Ahmed,PERSON
+NER027,"Call Ahmed on +971551112233 before noon.",+971551112233,PHONE
+NER028,"The service appointment is at 2:15 PM on 19 November 2026.",2:15 PM,TIME
+NER028,"The service appointment is at 2:15 PM on 19 November 2026.",19 November 2026,DATE
+NER029,"The payment was processed by First National Bank.",First National Bank,ORGANIZATION
+NER030,"My name is Grace Miller and my order number is ORD-61029.",Grace Miller,PERSON
+NER030,"My name is Grace Miller and my order number is ORD-61029.",ORD-61029,ORDER_ID
