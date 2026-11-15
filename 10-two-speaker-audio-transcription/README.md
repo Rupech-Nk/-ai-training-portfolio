@@ -25,7 +25,7 @@ Annotation Details
 * Timestamp format: MM:SS.s
 
 Files
-- `Customer Service Conversation .m4a` – Original audio recording used for the transcription exercise.
+Source audio is not hosted here. See the original link above.
 * transcript.txt – Complete conversation transcript.
 * transcription_timestamps.csv – Timestamped transcript with speaker labels.
 
