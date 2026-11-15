@@ -44,6 +44,7 @@ Portfolio Information
 
 The projects in this repository are independently developed practical exercises using simulated datasets. They demonstrate my annotation methods, evaluation skills and understanding of AI data workflows.
 
+- [CVAT Vehicle Object Detection Annotation](08-cvat-vehicle-annotation/README.md) – Practical image annotation using bounding boxes to identify 14 vehicles.
 Contact
 
 Rupech Nkengafack
