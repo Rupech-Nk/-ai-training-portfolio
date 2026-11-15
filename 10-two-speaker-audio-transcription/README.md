@@ -1,4 +1,8 @@
 Two-Speaker Audio Transcription and Diarisation
+* Source platform: TikTok
+* Original video URL: https://vt.tiktok.com/ZSpVoeDc7/
+* Creator: therealveronika_
+* Use: Independent transcription and speaker diarisation exercise.
 
 Project Overview
 
